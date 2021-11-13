@@ -1,9 +1,7 @@
-## support page for differential equations
+## Support page for Differential Equations
 
 # 工学への応用
-```math
-m \frac{\mathrm{d}^2 x}{\mathrm{d} t^2} = -k x - c \frac{\mathrm{d} x}{\mathrm{d} t}
-```
+$$ m \frac{\mathrm{d}^2 x}{\mathrm{d} t^2} = -k x - c \frac{\mathrm{d} x}{\mathrm{d} t} $$
 
 ### Markdown
 
