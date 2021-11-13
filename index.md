@@ -1,9 +1,9 @@
 ## Support page for Differential Equations
 
 # 工学への応用
-<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 m \frac{\mathrm{d}^2 x}{\mathrm{d} t^2} = -k x - c \frac{\mathrm{d} x}{\mathrm{d} t}
-
+</script>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
