@@ -1,9 +1,11 @@
 ## Support page for Differential Equations
 
 # 工学への応用
+
 $$
 m \frac{\mathrm{d}^2 x}{\mathrm{d} t^2} = -k x - c \frac{\mathrm{d} x}{\mathrm{d} t}
 $$
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
