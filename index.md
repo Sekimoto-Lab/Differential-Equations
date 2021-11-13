@@ -1,7 +1,9 @@
 ## support page for differential equations
 
 # 工学への応用
-
+```math
+m \frac{\mathrm{d}^2 x}{\mathrm{d} t^2} = -k x - c \frac{\mathrm{d} x}{\mathrm{d} t}
+```
 
 ### Markdown
 
@@ -24,14 +26,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sekimoto-Lab/Data-driven-numerical-analysis/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Atsushi Sekimoto Lab. Homepage](https://sites.google.com/view/sekimoto-lab/lectures/%E3%83%87%E3%83%BC%E3%82%BF%E9%A7%86%E5%8B%95%E5%9E%8B%E6%95%B0%E5%80%A4%E8%A8%88%E7%AE%97-data-driven-numerical-analysis)
