@@ -1,6 +1,8 @@
 ## Support page for Differential Equations
 
 # 工学への応用
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 $$ m \frac{\mathrm{d}^2 x}{\mathrm{d} t^2} = -k x - c \frac{\mathrm{d} x}{\mathrm{d} t} $$
 
 ### Markdown
